@@ -20,11 +20,13 @@ React, Node.js, Web Speech API, and AI APIs
 
 -> Backend
 -> Terminal
+
 cd backend
 npm install
 node index.js
 
 -> Create .env file 
+
 OPENAI_API_KEY=your_api_key_here
 
 -> Frontend 
